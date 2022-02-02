@@ -30,7 +30,7 @@ The following R packages/libraries are required to run scripts.
 
 Save code.R and data.csv to the working directory. Run code.R to produce the results in the main text of the paper.
 
-codebook.txt provides information on the variables in data.csv.
+codebook.txt lists and describes the variables in data.csv.
 
 
 
