@@ -18,7 +18,7 @@ These files provide the code and data necessary to reproduce the results in the 
 
 * Working Environment *
 
-There are no specific computational requirements other than those necessary to run R. The authors were able to run all scripts in the following computing environment: Dual-Core Intel Core i5, CPU @ 2.3GHz (2 cores); R version 3.6.0
+There are no specific computational requirements other than those necessary to run R. The authors were able to run all scripts in the following computing environment: Dual-Core Intel Core i5, CPU @ 2.3GHz (2 cores); R version 3.6.1
 
 The following R packages/libraries are required to run scripts.
 	- tidyverse
