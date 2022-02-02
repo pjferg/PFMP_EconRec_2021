@@ -4,7 +4,7 @@
 ** Title: Superstar Productivity and Pay: Evidence from the Australian Football League **
 ** Journal: The Economic Record **
 ** Authors: Patrick J. Ferguson and Matthew Pinnuck **
-** Date: February 2022 **
+** Date: 2 February 2022 **
 
 * Summary *
 
