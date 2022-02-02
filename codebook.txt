@@ -1,0 +1,25 @@
+Variable	Label	Description
+home_win	Win	a binary variable that is equal to one for games where home team i defeats away team j in season s and that is otherwise equal to zero
+margin	Margin	the final point spread or margin of the game between home team i and away team j in season s
+home_odds_win_prob_close	Prob. Home Win	the betting-odds implied probability that home team i defeats away team j in season s
+expected_margin	Expected Margin	the expected margin of the game between home team i and away team j in season s
+home_injuries_top5	Home Star Injuries (95th)	the number of star players who due to injury were removed from home team i's line-up for the game against away team j in season s
+away_injuries_top5	Away Star Injuries (95th)	the number of star players who due to injury were removed from away team j’s line-up for the game against home team i in season s
+home_injuries_top10	Home Star Injuries (90th)	the number of star players who due to injury were removed from home team i's line-up for the game against away team j in season s
+away_injuries_top10	Away Star Injuries (90th)	the number of star players who due to injury were removed from away team j’s line-up for the game against home team i in season s
+home_injuries_95th_to_90th	Home Star Injuries (90-95th)	the number of star players who due to injury were removed from home team i's line-up for the game against away team j in season s
+away_injuries_95th_to_90th	Away Star Injuries (90-95th)	the number of star players who due to injury were removed from home team i's line-up for the game against away team j in season s
+round	Round	identifies the round of the season when home team i played away team j in season s
+year	Season	identifies the season when home team i played away team j in season s
+home	Home	identifies home team i that played away team j in season s 
+away	Home	identifies away team j that played home team i in season s 
+home_season	Home Season	home team i in season s 
+thurs_fri	Thursday-Friday	a binary variable that is equal to one for games that are played on a Thursday or Friday and that is otherwise equal to zero
+sat	Saturday	a binary variable that is equal to one for games that are played on a Saturday and that is otherwise equal to zero
+sun	Sunday	a binary variable that is equal to one for games played on a Sunday and that is otherwise equal to zero
+evening	Evening Slot	a binary variable that is equal to one for games played in the evening and that is otherwise equal to zero
+home_odds_open	Opening Odds for Home Win	the betting odds that home team i defeats away team j in season s
+standing_home	Home Standing	home team i’s position in the standings as of their game against away team j in season s
+standing_away	Away Standing 	away team j’s position in the standings as of their game against home team i in season s
+home_elo_2009	Home Elo Rating	home team i’s Elo rating as of their game against away team j in season s
+away_elo_2009	Away Elo Rating	away team j’s Elo rating as of their game against home team i in season s
